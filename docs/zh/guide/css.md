@@ -24,7 +24,7 @@ npm install -D stylus-loader stylus
 然后你就可以导入相应的文件类型，或在 `*.vue` 文件中这样来使用：
 
 ``` vue
-<style lang="scss">
+<style lang="sass">
 $color: red;
 </style>
 ```
